@@ -1,0 +1,14 @@
+body {
+    font-size: 15pt;
+}
+
+.content{
+  border-bottom:2px solid black;
+}
+.talk{
+  height:30px;
+  border-radius: 10px;
+}
+#output{
+  border-bottom:2px solid black;
+} 
