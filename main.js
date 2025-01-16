@@ -1,4 +1,4 @@
-const url = 'https://en.wikipedia.org/w/api.php?action=query&prop=info&titles='
+  const url = 'https://en.wikipedia.org/w/api.php?action=query&prop=info&titles='
 
  const btn = document.querySelector('.talk')
 const content = document.querySelector('.content')
